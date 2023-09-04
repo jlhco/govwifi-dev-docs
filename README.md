@@ -64,11 +64,9 @@ Run `bundle update` to make sure you're using the most recent Ruby gem versions.
 
 Run `bundle exec middleman build --verbose` to get detailed error messages to help with finding the problem.
 
-## CI / CD
+## Deployment
 
-You can find the pipeline [here](https://cd.gds-reliability.engineering/teams/govwifi/pipelines/dev-docs-deploy). It self updates when you merge any changes.
-
-See [here](https://cd.gds-reliability.engineering/teams/govwifi/pipelines/info/jobs/show-available-pipeline-variables/builds/14) to set up variables.
+This project is deployed to github pages
 
 ## How to contribute
 
